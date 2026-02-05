@@ -1,4 +1,4 @@
-cart
+Balacart
 an E-commerce Website built with MERN stack.
 
 Instructions
